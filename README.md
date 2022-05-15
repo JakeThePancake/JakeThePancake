@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JakeThePancake
+- 👀 I’m interested in mainly valorant and minecraft at the moment
+- 🌱 I’m currently learning python coding
